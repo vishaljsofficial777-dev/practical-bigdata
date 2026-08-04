@@ -1,0 +1,52 @@
+ORGANIZATION_TYPE,default_rate_pct,count
+Transport: type 3,15.75,1187
+Restaurant,11.71,1811
+Construction,11.68,6721
+Cleaning,11.15,260
+Industry: type 1,11.07,1039
+Industry: type 3,10.62,3278
+Realtor,10.61,396
+Agriculture,10.47,2454
+Trade: type 3,10.34,3492
+Self-employed,10.17,38412
+Industry: type 4,10.15,877
+Security,9.98,3247
+Trade: type 7,9.45,7831
+Business Entity Type 3,9.3,67992
+Transport: type 4,9.28,5398
+Mobile,9.15,317
+Trade: type 1,8.91,348
+Industry: type 11,8.65,2704
+Business Entity Type 2,8.53,10553
+Postal,8.44,2157
+Advertising,8.16,429
+Business Entity Type 1,8.14,5984
+Industry: type 7,8.03,1307
+Housing,7.94,2958
+Legal Services,7.87,305
+Transport: type 2,7.8,2204
+Other,7.64,16683
+Telecom,7.63,577
+Industry: type 2,7.21,458
+Emergency,7.14,560
+Kindergarten,7.03,6880
+Trade: type 2,7.0,1900
+Government,6.98,10404
+Industry: type 5,6.84,599
+Industry: type 9,6.68,3368
+Electricity,6.63,950
+Services,6.6,1575
+Medicine,6.58,11193
+Hotel,6.42,966
+School,5.91,8893
+Insurance,5.7,597
+Culture,5.54,379
+XNA,5.4,55374
+Bank,5.19,2507
+Military,5.13,2634
+Police,5.0,2341
+University,4.9,1327
+Security Ministries,4.86,1974
+Trade: type 6,4.6,631
+Transport: type 1,4.48,201
+Industry: type 12,3.79,369
